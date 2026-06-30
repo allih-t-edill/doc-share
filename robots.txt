@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://allih-t-edill.github.io/doc-share/sitemap.xml
